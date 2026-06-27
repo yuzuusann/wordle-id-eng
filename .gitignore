@@ -1,0 +1,23 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Sensitive files
+lib/api/api_key.dart
+
+# IDE specific
+.idea/
+.vscode/
+
+# Misc
+*.iml
+*.ipr
+*.iws
+
+# Logs and databases
+*.log
+
+# Operating system files
+.DS_Store
